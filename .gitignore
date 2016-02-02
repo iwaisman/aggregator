@@ -19,7 +19,7 @@ project/plugins/project/
 
 # Emacs
 *~
-#*#
+\#*\#
 
 # IDEA
 .idea
